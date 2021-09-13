@@ -1,0 +1,9 @@
+cum incarc pe github
+intri pe git bash romb colorat
+
+ cd Desktop
+ cd catal // apesi tab pentru autocomplete --> sa fie cd catalinuk.github.io
+
+ git add --all
+ git commit -m "Ok"
+ git push origin master --force
